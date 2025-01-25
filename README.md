@@ -7,4 +7,10 @@
 
 ## Dokumentacja:
 
-  - Instalacja: **<a href="/instalacja.md">➤</a>**
+- Instalacja luncher'a i paczki: 
+  - **<a href="/Instalacje/mc-nonpremium.md">➤ Luncher NonPremium</a>**
+  - **<a href="/Instalacje/mc-premium.md">➤ Luncher Premium</a>**
+
+- Linki do paczek:
+  - **Na słabsze komputery:** https://www.mediafire.com/file/aaw51isc9qwhwr1/Teams_SMP_-_Low_-_1.0.zip/file
+  - **Na lepsze komputery:** https://www.mediafire.com/file/79uf7ggufdbt75u/Teams_SMP_-_1.0.zip/file
