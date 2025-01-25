@@ -1,4 +1,4 @@
-# Instalacja
+# Instalacja - CurseForge
 
 1. Wchodzimy na tą strone:
    - https://www.curseforge.com/download/app
