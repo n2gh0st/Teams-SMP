@@ -7,4 +7,4 @@
 
 ## Dokumentacja:
 
-  - dsa
+  - Instalacja: **<a href="/instalacja">➤</a>**
