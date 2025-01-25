@@ -1,6 +1,6 @@
 # Teams SMP - Informacje
 
-**Regulamin:** **<a href=Regulamin.md">➤ Strona</a>**
+**Regulamin:** **<a href="Regulamin.md">➤ Strona</a>**
 
 Discord: **<a href="https://discord.gg/uk2CZJyaN6">➤ Zaproszenie</a>**
 
