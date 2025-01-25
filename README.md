@@ -7,4 +7,4 @@
 
 ## Dokumentacja:
 
-  - Instalacja: **<a href="/instalacja">➤</a>**
+  - Instalacja: **<a href="/instalacja.md">➤</a>**
