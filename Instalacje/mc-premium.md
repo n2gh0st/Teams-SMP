@@ -24,10 +24,10 @@
    - https://www.mediafire.com/file/aaw51isc9qwhwr1/Teams_SMP_-_Low_-_1.0.zip/file
 
 10. Po pobraniu wracamy do aplikacji curseforge i klikamy import.
-<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/43cf6f6d3c4072be8c857400f621f1493f50e524/zdj/p4.png" />
+<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/0690f7fb0f31e3cbda176659c5996ed16d0edfae/zdj/p4.png" />
 
 11. Wybieramy import poprzez plik .zip.
-<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/43cf6f6d3c4072be8c857400f621f1493f50e524/zdj/p5.png" />
+<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/0690f7fb0f31e3cbda176659c5996ed16d0edfae/zdj/p5.png" />
 
 12. Wybieramy z plików wcześniej pobraną paczke (prawdopodobnie będzie w pobranych).
 
