@@ -10,7 +10,7 @@
 4. Przechodzimy prosta instalacja.
 
 5. Klikamy logowanie nonpremium:
-<img alt="Image" src="" />
+<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/dfb69acf570a340704da46182211ae39b3a8c7be/zdj/p6.png" />
 
 6. Wpisujemy swój niki klikamy zaloguj.
 
@@ -23,15 +23,25 @@
 
 10. Po pobraniu wracamy ponownie do lunchera i wybnieramy "Przeglądaj paczki" w lewym dolnym rogu.
 
-11. 
+11. Następnie ustawiamy "Paczki użytkownika":
+<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/dfb69acf570a340704da46182211ae39b3a8c7be/zdj/p7.png" />
 
-12. Wybieramy z plików wcześniej pobraną paczke (prawdopodobnie będzie w pobranych).
+12. Klikamy "Nowa paczka lub importowanie":
+<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/dfb69acf570a340704da46182211ae39b3a8c7be/zdj/p8.png" />
 
-13. Paczka rozpocznie się instalować. Po instalacji klikamy play/graj.
+13. Kolejnie wpisujemy nazwe paczki ```Teams SMP``` i wybieramy CurseForge:
+<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/dfb69acf570a340704da46182211ae39b3a8c7be/zdj/p9.png" />
 
-14. Odpali nam się oficjalny minecraft luncher, logujemy się do niego i klikamy graj.
+14. Po wybraniu, otwiera się menu gdzie klikamy ikonke folderu:
+<img alt="Image" src="https://github.com/n2gh0st/Teams-SMP/blob/dfb69acf570a340704da46182211ae39b3a8c7be/zdj/p10.png" />
 
-15. Minecraft powinien się odpalić i następnie klikamy gra wielosobowa i dołączamy do serwera juz dodanengo.
+15. Wybieramy pobrany wcześniej plik i go importujemy.
+
+16. Następnie paczka powinna się zainstalować. Po instalacji klikamy w prawym dolnym rogu "Zatwierdź".
+
+17. Przeniesie nas na strone główną gdzie klikamy graj i minecraft powinien się włączyć `(Ten moment zazwyczaj trwa troche dłużej wieć zaschowaj cierpliwość)`
+
+18. Po uruchomieniu minecraft wbieramy gra wieloosobowa i dołączamy na dodany już serwer.
 
 
 <code>Jeżli wystąpią jakieś problemy, prosimy zwrócić się do administracji!</code>
