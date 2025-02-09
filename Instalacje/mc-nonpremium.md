@@ -19,7 +19,7 @@
 ## Pobieranie paczki:
 
 8. Pobieramy paczke z tego linku:
-   - **Na słabsze komputery:** https://www.mediafire.com/file/jgb5lj86ls7664k/Teams_SMP_-_Low-1.2.zip/file
+   - **Na słabsze komputery:** <a href="https://download1334.mediafire.com/s4cyoxm7mqugkX1vattU1LEAgqw8aO375zxfOak776O9ezP_TF2ZpD-R7B1sAUd9IzyoWossagneE8XjMFFho9taOtmSBEy2DzhOpOtAOQfORBT8b18IDwmepasTvru4TJ1bn27cDSyAZ2WMeOIFquN4b5lEIg-wy6cNs8F8nmF0/sr0ucxuhyjfnzp1/Teams+SMP+low+-+1.5.zip">➤ Link</a> 
    - **Na lepsze komputery:** https://www.mediafire.com/file/4wiojcxmza7in26/Teams_SMP-1.1.zip/file
 
 9. Po pobraniu wracamy ponownie do lunchera i wybnieramy "Przeglądaj paczki" w lewym dolnym rogu.
